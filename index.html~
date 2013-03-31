@@ -8,16 +8,14 @@
     <link href="css/bootstrap-responsive.css" rel="stylesheet">
     
     
-
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
   </head>
   <body>
   
   	<div class="container">
   		<h1>Sumanyu Sharma</h1>
   	</div>
-  
-  <script src="http://code.jquery.com/jquery.js"></script>
-  <script src="js/bootstrap.min.js"></script>
   	
   </body>
 </html>

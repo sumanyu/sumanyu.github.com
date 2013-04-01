@@ -6,17 +6,18 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="css/site.css" rel="stylesheet">
   </head>
   <body>
   
-  	<div class="container">  		
-  		<h1>Sumanyu Sharma</h1>
-  		
-  		<ul class="inline">
-  			<li><a href="#" traget="_blank">projects</a></li>
-  			<li><a href="http://www.linkedin.com/profile/view?id=142506125" traget="_blank">linkedin</a></li>
-  			<li><a href="https://github.com/sumanyu" traget="_blank">github</a></li>
-  			<li><a href="resume/Sumanyu_Sharma_Resume.pdf" traget="_blank">cv</a></li>
+	<div class="container">
+		<h1>Sumanyu Sharma</h1>
+
+		<ul class="inline">
+			<li><a href="#" traget="_blank">projects</a></li>
+			<li><a href="http://www.linkedin.com/profile/view?id=142506125" traget="_blank">linkedin</a></li>
+			<li><a href="https://github.com/sumanyu" traget="_blank">github</a></li>
+			<li><a href="resume/Sumanyu_Sharma_Resume.pdf" traget="_blank">cv</a></li>
 		</ul>
   	</div>
   

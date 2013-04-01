@@ -1,4 +1,13 @@
 h1 {
-	font-size: 70px;
+	font-size: 80px;
 	line-height: 130px;
 }
+
+ul.inline > li, ol.inline > li {
+	padding-right: 30px;
+}
+
+body {
+	font-size: 24px;
+}
+
